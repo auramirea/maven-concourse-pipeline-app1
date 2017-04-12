@@ -125,7 +125,7 @@ output "space_id" {
 
 ```
 
-## Provision a User Provided Service to redirect the logs to a syslog drainer
+## Provision a User Provided Service to redirect the logs to a syslog drainer 
 
 We will use an externally provisioned syslog drainer. See the instructions below:
 
