@@ -132,4 +132,4 @@ We will use an externally provisioned syslog drainer. See the instructions below
 1. Sign up for a free Papertrail account: https://papertrailapp.com/
 2. Follow the instructions to set up Papertrail: http://docs.run.pivotal.io/devguide/services/log-management-thirdparty-svc.html#papertrail
 3. Record the URL with port that is displayed after creating the system.
-4. Edit `services.tf` file and add the following terraform resource:
+4. Edit `services.tf` file and add the following terraform resource: 
