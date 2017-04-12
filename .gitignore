@@ -25,3 +25,6 @@ nbdist/
 
 ### Concourse ###
 pipeline.yml
+
+##  secrets ###
+secrets.yml
